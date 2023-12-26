@@ -45,3 +45,18 @@ The following packages were added:
   com.unity.timeline@1.5.6
   com.unity.ugui@1.0.0
   com.unity.visualscripting@1.6.1
+
+=== Mon Dec 25 17:53:49 2023
+
+Packages were changed.
+Update Mode: updateDependencies
+
+The following packages were 已添加:
+  com.unity.ai.navigation@1.1.5
+The following packages were 已更新:
+  com.unity.ide.rider 从版本 3.0.7 到 3.0.26
+  com.unity.ide.visualstudio 从版本 2.0.9 到 2.0.22
+  com.unity.ide.vscode 从版本 1.2.3 到 1.2.5
+  com.unity.test-framework 从版本 1.1.27 到 1.1.33
+  com.unity.timeline 从版本 1.5.6 到 1.7.6
+  com.unity.visualscripting 从版本 1.6.1 到 1.9.1
